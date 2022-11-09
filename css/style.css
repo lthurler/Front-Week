@@ -262,6 +262,11 @@ i {
     margin-left: -1px;
 }
 
+#about-data .data:first-child {
+    border-bottom: 1px solid var(--secondary-text-color);
+    border-right: 1px solid var(--secondary-text-color);
+}
+
 #about-data .data:last-child {
     border-top: 1px solid var(--secondary-text-color);
     border-left: 1px solid var(--secondary-text-color);
