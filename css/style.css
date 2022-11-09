@@ -46,7 +46,7 @@ i {
     position: relative;
 }
 
-#inner-header{
+#inner-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -117,7 +117,7 @@ i {
     background-color: var(--secondary-color);    
 }
 
-.dot .active {
+.dot.active {
     background-color: var(--main-color);
 }
 
